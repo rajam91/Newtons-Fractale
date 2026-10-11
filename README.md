@@ -4,7 +4,7 @@ This Python script generates **Newton fractals**, visualizing how Newton's metho
 
 ## 📚 What is a Newton Fractal?
 
-A Newton fractal is a colorful picture that shows what happens when we use a math trick called Newton’s method to find solutions (called roots) of a complex equation. Each point in the image represents a number, and its color shows which solution it ends up at — and how quickly. The result looks like a beautiful mix of colors!
+A Newton fractal is a colorful picture that shows what happens when we use a math trick called Newton’s method to find solutions (called roots) of a complex equation. Each point in the image represents a number, and its color shows which solution it ends up at and how quickly. The result looks like a beautiful mix of colors!
 
 ## Requirements
 
